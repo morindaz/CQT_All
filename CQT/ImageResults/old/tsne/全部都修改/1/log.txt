@@ -1,0 +1,43 @@
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computed conditional probabilities for sample 1000 / 1355
+[t-SNE] Computed conditional probabilities for sample 1355 / 1355
+[t-SNE] Mean sigma: 3.740501
+[t-SNE] Iteration 25: error = 9341.9798672, gradient norm = 15.0561294
+[t-SNE] Iteration 50: error = 9258.7189422, gradient norm = 18.0010474
+[t-SNE] Iteration 75: error = 9725.9380592, gradient norm = 14.6821185
+[t-SNE] Iteration 100: error = 9623.8022495, gradient norm = 12.7194395
+[t-SNE] KL divergence after 100 iterations with early exaggeration: 9623.802249
+[t-SNE] Iteration 125: error = 2.6881652, gradient norm = 0.0109756
+[t-SNE] Iteration 150: error = 2.6558966, gradient norm = 0.0102763
+[t-SNE] Iteration 175: error = 2.6477444, gradient norm = 0.0101171
+[t-SNE] Iteration 200: error = 2.6455364, gradient norm = 0.0100752
+[t-SNE] Iteration 225: error = 2.6449278, gradient norm = 0.0100637
+[t-SNE] Iteration 250: error = 2.6447593, gradient norm = 0.0100605
+[t-SNE] Iteration 275: error = 2.6447126, gradient norm = 0.0100596
+[t-SNE] Iteration 300: error = 2.6446996, gradient norm = 0.0100594
+[t-SNE] Iteration 325: error = 2.6446960, gradient norm = 0.0100593
+[t-SNE] Iteration 350: error = 2.6446950, gradient norm = 0.0100593
+[t-SNE] Iteration 375: error = 2.6446947, gradient norm = 0.0100593
+[t-SNE] Iteration 400: error = 2.6446947, gradient norm = 0.0100593
+[t-SNE] Iteration 425: error = 2.6446947, gradient norm = 0.0100593
+[t-SNE] Iteration 450: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 475: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 500: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 525: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 550: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 575: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 600: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 625: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 650: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 675: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 700: error = 2.6446946, gradient norm = 0.0100593
+[t-SNE] Iteration 700: error difference 0.000000. Finished.
+[t-SNE] Error after 700 iterations: 9623.802249
+1355
+[[-1.9207585  -0.63120409]
+ [ 0.31625004 -0.54226563]
+ [-4.09717161 -2.50801191]
+ ..., 
+ [-0.77607458  2.92622034]
+ [-1.91418452 -2.20785151]
+ [ 2.83730222 -1.63726247]]

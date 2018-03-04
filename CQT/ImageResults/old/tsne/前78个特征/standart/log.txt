@@ -1,0 +1,61 @@
+D:\Anaconda\lib\site-packages\sklearn\utils\validation.py:429: DataConversionWarning: Data with input dtype object was converted to float64 by StandardScaler.
+  warnings.warn(msg, _DataConversionWarning)
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computed conditional probabilities for sample 1000 / 1355
+[t-SNE] Computed conditional probabilities for sample 1355 / 1355
+[t-SNE] Mean sigma: 0.598353
+[t-SNE] Iteration 25: error = 983.5396173, gradient norm = 1.5786896
+[t-SNE] Iteration 50: error = 974.4605118, gradient norm = 1.4619785
+[t-SNE] Iteration 75: error = 994.1522024, gradient norm = 1.2917420
+[t-SNE] Iteration 100: error = 980.7882364, gradient norm = 1.2350865
+[t-SNE] KL divergence after 100 iterations with early exaggeration: 980.788236
+[t-SNE] Iteration 125: error = 4.5642066, gradient norm = 0.0086061
+[t-SNE] Iteration 150: error = 4.3508202, gradient norm = 0.0084709
+[t-SNE] Iteration 175: error = 4.2909103, gradient norm = 0.0082608
+[t-SNE] Iteration 200: error = 4.2746209, gradient norm = 0.0082098
+[t-SNE] Iteration 225: error = 4.2701219, gradient norm = 0.0082037
+[t-SNE] Iteration 250: error = 4.2688739, gradient norm = 0.0082028
+[t-SNE] Iteration 275: error = 4.2685276, gradient norm = 0.0082026
+[t-SNE] Iteration 300: error = 4.2684316, gradient norm = 0.0082025
+[t-SNE] Iteration 325: error = 4.2684049, gradient norm = 0.0082025
+[t-SNE] Iteration 350: error = 4.2683975, gradient norm = 0.0082025
+[t-SNE] Iteration 375: error = 4.2683955, gradient norm = 0.0082025
+[t-SNE] Iteration 400: error = 4.2683949, gradient norm = 0.0082025
+[t-SNE] Iteration 425: error = 4.2683948, gradient norm = 0.0082025
+[t-SNE] Iteration 450: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 475: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 500: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 525: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 550: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 575: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 600: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 625: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 650: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 675: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 700: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 725: error = 4.2683947, gradient norm = 0.0082025
+[t-SNE] Iteration 725: error difference 0.000000. Finished.
+[t-SNE] Error after 725 iterations: 980.788236
+1355
+[[-6.21237092  3.45644343]
+ [-0.57434394 -0.58843887]
+ [ 0.30317318 -1.7594731 ]
+ ..., 
+ [ 3.08671133  5.58747994]
+ [-6.15648556 -2.07701937]
+ [-3.72464642 -3.2169905 ]]
+44
+297
+433
+488
+496
+747
+755
+924
+982
+1008
+1035
+1078
+1204
+[44, 297, 433, 488, 496, 747, 755, 924, 982, 1008, 1035, 1078, 1204]
+['0-10-55-58-895_333_92-202.399-210.933.csv', '0-15-53-09-950_333_6-211.8-217.066.csv', '0-17-26-05-373_333_9-244.866-259.20001.csv', '0-17-53-29-257_333_66-246.399-284.6.csv', '0-17-55-52-142_333_14-261.79999-263.39999.csv', '0-16-54-00-088_333_10-201.133-203.733.csv', '0-17-02-52-812_333_12-247.33299-248.8.csv', '0-11-43-15-495_333_19-254.8-257.867.csv', '0-13-57-26-310_333_66-193.866-195.6.csv', '0-14-27-14-524_333_18-247.733-249.067.csv', '0-14-43-37-613_333_95-220.066-221.266.csv', '0-15-27-51-851_333_61-137.33299-138.66701.csv', '0-16-58-54-233_333_43-179.466-181.466.csv']

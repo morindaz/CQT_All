@@ -1,0 +1,26 @@
+
+Iteration  520 : error is  1.61866222528
+Iteration  530 : error is  1.61848060149
+Iteration  540 : error is  1.61830673703
+Iteration  550 : error is  1.61813545265
+Iteration  560 : error is  1.61795370553
+Iteration  570 : error is  1.61766554155
+Iteration  580 : error is  1.61731586532
+Iteration  590 : error is  1.61711577411
+Iteration  600 : error is  1.61693926907
+Iteration  610 : error is  1.61678022821
+Iteration  620 : error is  1.61663065691
+Iteration  630 : error is  1.61649837064
+Iteration  640 : error is  1.61637677848
+Iteration  650 : error is  1.6162583618
+Iteration  660 : error is  1.61615095116
+Iteration  670 : error is  1.61605868448
+Iteration  680 : error is  1.61597136292
+Iteration  690 : error is  1.61587744509
+Iteration  700 : error is  1.61578703105
+Iteration  710 : error is  1.61570727174
+Iteration  720 : error is  1.61563229865
+Iteration  730 : error is  1.61556050317
+Iteration  740 : error is  1.61549109159
+Iteration  750 : error is  1.61541230363
+Iteration  760 : error is  1.61532573755
